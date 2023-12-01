@@ -24,7 +24,7 @@
 
 12. input your data without space-bar (" "). it shuld look like this: user_name:_vova____password:_12345
 
-12. the prograo will encrypt & store your data on encrypted hiden file (.encrypted_hiden_file)
+13. the prograo will encrypt & store your data on encrypted hiden file (.encrypted_hiden_file)
 
-13. if you miss-type the password mor then the number of wrong attempts... you can gess what will hapend
+14. if you miss-type the password mor then the number of wrong attempts... you can gess what will hapend
  
