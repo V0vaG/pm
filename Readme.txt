@@ -1,6 +1,6 @@
 !!!!Welcome to Vova's Password Maneger!!!!*****
 
-1. a few things before we start....
+1. a few things before we start....!
 
 2. This program allows you to manege & encrypt your date (user-name, passwords, etc...)
 
